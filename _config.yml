@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Ronak Ray
+tagline:          'My views on tech and life'
+description:      'Hands-on QA Lead/Manager by trade, A self taught programmer, Passionate to learn new things anytime of the day. Family man of 3 heartbeats'
+#url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ronak Ray'
+#  url:            https://twitter.com/mdo
 
 paginate:         5
 
