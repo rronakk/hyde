@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Ronak Ray
 tagline:          'My views on tech and life'
-description:      'Hands-on QA Lead/Manager by trade, A self taught programmer, Passionate to learn new things anytime of the day. Family man of 3 heartbeats'
+description:      'Hands-on QA Lead/Manager by trade, A self taught programmer. Family man of 3 heartbeats'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/rronakk/rronakk.github.io
